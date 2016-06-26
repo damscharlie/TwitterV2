@@ -1,0 +1,3413 @@
+{
+  "statuses":  [
+    {
+      "created_at": "Wed Apr 20 13:01:49 +0000 2016",
+      "id": 722772259073626100,
+      "id_str": "722772259073626112",
+      "text": "RT @SaxionUAS: Why study in #Holland? Check this video by Study in Holland!\n\n#studyinholland #saxion https://t.co/Yfr2oG1vpu https://t.co/Eâ€¦",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "Holland",
+            "indices":  [
+              28,
+              36
+            ]
+          },
+          {
+            "text": "studyinholland",
+            "indices":  [
+              77,
+              92
+            ]
+          },
+          {
+            "text": "saxion",
+            "indices":  [
+              93,
+              100
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "SaxionUAS",
+            "name": "Saxion University",
+            "id": 89651541,
+            "id_str": "89651541",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/Yfr2oG1vpu",
+            "expanded_url": "https://youtu.be/JmpwlflP6G4",
+            "display_url": "youtu.be/JmpwlflP6G4",
+            "indices":  [
+              101,
+              124
+            ]
+          }
+        ],
+        "media":  [
+          {
+            "id": 722689527731654700,
+            "id_str": "722689527731654656",
+            "indices":  [
+              125,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CgeCS-dXEAA4F8o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CgeCS-dXEAA4F8o.jpg",
+            "url": "https://t.co/EQJ5gekbtZ",
+            "display_url": "pic.twitter.com/EQJ5gekbtZ",
+            "expanded_url": "http://twitter.com/SaxionUAS/status/722689527886819328/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 722689527886819300,
+            "source_status_id_str": "722689527886819328",
+            "source_user_id": 89651541,
+            "source_user_id_str": "89651541"
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 705126388630753300,
+        "id_str": "705126388630753280",
+        "name": "Marc Boerma",
+        "screen_name": "mjbtngo",
+        "location": "",
+        "description": "Software Development Director @Tangoe, global provider of Connection Lifecycle Management software & services. (opinions are my own)",
+        "url": "https://t.co/fEA2J3ugoK",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/fEA2J3ugoK",
+                "expanded_url": "http://www.tangoe.com",
+                "display_url": "tangoe.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 41,
+        "friends_count": 161,
+        "listed_count": 3,
+        "created_at": "Wed Mar 02 20:23:26 +0000 2016",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705130898421915649/AQvFyiNu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705130898421915649/AQvFyiNu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705126388630753280/1456952343",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Apr 20 07:33:05 +0000 2016",
+        "id": 722689527886819300,
+        "id_str": "722689527886819328",
+        "text": "Why study in #Holland? Check this video by Study in Holland!\n\n#studyinholland #saxion https://t.co/Yfr2oG1vpu https://t.co/EQJ5gekbtZ",
+        "entities":  {
+          "hashtags":  [
+            {
+              "text": "Holland",
+              "indices":  [
+                13,
+                21
+              ]
+            },
+            {
+              "text": "studyinholland",
+              "indices":  [
+                62,
+                77
+              ]
+            },
+            {
+              "text": "saxion",
+              "indices":  [
+                78,
+                85
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+            {
+              "url": "https://t.co/Yfr2oG1vpu",
+              "expanded_url": "https://youtu.be/JmpwlflP6G4",
+              "display_url": "youtu.be/JmpwlflP6G4",
+              "indices":  [
+                86,
+                109
+              ]
+            }
+          ],
+          "media":  [
+            {
+              "id": 722689527731654700,
+              "id_str": "722689527731654656",
+              "indices":  [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/CgeCS-dXEAA4F8o.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CgeCS-dXEAA4F8o.jpg",
+              "url": "https://t.co/EQJ5gekbtZ",
+              "display_url": "pic.twitter.com/EQJ5gekbtZ",
+              "expanded_url": "http://twitter.com/SaxionUAS/status/722689527886819328/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 600,
+                  "h": 338,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 89651541,
+          "id_str": "89651541",
+          "name": "Saxion University",
+          "screen_name": "SaxionUAS",
+          "location": "The Netherlands",
+          "description": "Official Account | #Saxion is a University of Applied Sciences in the Netherlands offering bachelor & master education and research focused on Living Technology",
+          "url": "http://t.co/whG2yjxoZL",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/whG2yjxoZL",
+                  "expanded_url": "http://www.saxion.edu/",
+                  "display_url": "saxion.edu",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1171,
+          "friends_count": 242,
+          "listed_count": 28,
+          "created_at": "Fri Nov 13 07:47:20 +0000 2009",
+          "favourites_count": 258,
+          "utc_offset": 7200,
+          "time_zone": "Amsterdam",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1241,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "EAF3C9",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000172037847/tZ8pR1SZ.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000172037847/tZ8pR1SZ.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/608602815221608448/CYQxh5uG_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/608602815221608448/CYQxh5uG_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/89651541/1455188504",
+          "profile_link_color": "A6CE39",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 20 13:01:45 +0000 2016",
+      "id": 722772242518642700,
+      "id_str": "722772242518642688",
+      "text": "@mkosterwentink @SaxionACT Dat lijkt me geen straf met dit mooie voorjaarsweer! ^MH",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "mkosterwentink",
+            "name": "Mirjam Koster",
+            "id": 560187556,
+            "id_str": "560187556",
+            "indices":  [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "SaxionACT",
+            "name": "Saxion ACT",
+            "id": 80826356,
+            "id_str": "80826356",
+            "indices":  [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+    "in_reply_to_status_id": 722770554445525000,
+      "in_reply_to_status_id_str": "722770554445524992",
+      "in_reply_to_user_id": 560187556,
+      "in_reply_to_user_id_str": "560187556",
+      "in_reply_to_screen_name": "mkosterwentink",
+      "user":  {
+        "id": 16805731,
+        "id_str": "16805731",
+        "name": "Saxion",
+        "screen_name": "Saxion",
+        "location": "Enschede, Deventer, Apeldoorn",
+        "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+        "url": "http://t.co/eG9FY900WE",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/eG9FY900WE",
+                "expanded_url": "http://www.saxion.nl",
+                "display_url": "saxion.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 8231,
+        "friends_count": 1082,
+        "listed_count": 190,
+        "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+        "favourites_count": 558,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2492,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+        "profile_link_color": "2D5C11",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A6CE39",
+        "profile_text_color": "050005",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:55:03 +0000 2016",
+      "id": 722770554445525000,
+      "id_str": "722770554445524992",
+      "text": "Op de @Saxion - fiets op weg naar eindresultaat van project van studenten @SaxionACT https://t.co/Y01Zbjs84j",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              6,
+              13
+            ]
+          },
+          {
+            "screen_name": "SaxionACT",
+            "name": "Saxion ACT",
+            "id": 80826356,
+            "id_str": "80826356",
+            "indices":  [
+              74,
+              84
+            ]
+          }
+        ],
+        "urls":  [],
+        "media":  [
+          {
+            "id": 722770544890880000,
+            "id_str": "722770544890880000",
+            "indices":  [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/CgfL-y5WIAA2YYi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CgfL-y5WIAA2YYi.jpg",
+            "url": "https://t.co/Y01Zbjs84j",
+            "display_url": "pic.twitter.com/Y01Zbjs84j",
+            "expanded_url": "http://twitter.com/mkosterwentink/status/722770554445524992/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 560187556,
+        "id_str": "560187556",
+        "name": "Mirjam Koster",
+        "screen_name": "mkosterwentink",
+        "location": "Arnhem",
+        "description": "Saxion | School of Creative Technology | diversity - hospitality - creativity | 'Act as if what you do makes a difference. It does.' -William James-",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 562,
+        "friends_count": 684,
+        "listed_count": 8,
+        "created_at": "Sun Apr 22 09:54:23 +0000 2012",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 688,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/720308589328474112/DMUr1VJ8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/720308589328474112/DMUr1VJ8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/560187556/1439845468",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:27:47 +0000 2016",
+      "id": 722763695563108400,
+      "id_str": "722763695563108353",
+      "text": "@KNVBTalentTeam Bedankt voor het aanbod! We brengen het bericht onder de aandacht van relevante stagebureaus. ^FM",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "KNVBTalentTeam",
+            "name": "KNVB Talent Team",
+            "id": 1560499106,
+            "id_str": "1560499106",
+            "indices":  [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+    "in_reply_to_status_id": 722733349949845500,
+      "in_reply_to_status_id_str": "722733349949845504",
+      "in_reply_to_user_id": 1560499106,
+      "in_reply_to_user_id_str": "1560499106",
+      "in_reply_to_screen_name": "KNVBTalentTeam",
+      "user":  {
+        "id": 16805731,
+        "id_str": "16805731",
+        "name": "Saxion",
+        "screen_name": "Saxion",
+        "location": "Enschede, Deventer, Apeldoorn",
+        "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+        "url": "http://t.co/eG9FY900WE",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/eG9FY900WE",
+                "expanded_url": "http://www.saxion.nl",
+                "display_url": "saxion.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 8231,
+        "friends_count": 1082,
+        "listed_count": 190,
+        "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+        "favourites_count": 558,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2492,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+        "profile_link_color": "2D5C11",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A6CE39",
+        "profile_text_color": "050005",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:27:28 +0000 2016",
+      "id": 722763612134223900,
+      "id_str": "722763612134223874",
+      "text": "RT @Saxion: Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/gZu17qwoli",
+            "expanded_url": "http://saxion.to/1Nl6fu0",
+            "display_url": "saxion.to/1Nl6fu0",
+            "indices":  [
+              81,
+              104
+            ]
+          }
+        ],
+        "media":  [
+          {
+            "id": 722752914507358200,
+            "id_str": "722752914507358208",
+            "indices":  [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+            "url": "https://t.co/Zf1IoTywuZ",
+            "display_url": "pic.twitter.com/Zf1IoTywuZ",
+            "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 722752916537393200,
+            "source_status_id_str": "722752916537393153",
+            "source_user_id": 16805731,
+            "source_user_id_str": "16805731"
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 1960394017,
+        "id_str": "1960394017",
+        "name": "StudereninDuitsland",
+        "screen_name": "StudereninD",
+        "location": "Amsterdam",
+        "description": "Wel eens gedacht aan studeren in Duitsland? De Duitslanddesk van het DIA (http://t.co/JAha1k71vA) geeft informatie en verstrekt haar eigen studiebeurs.",
+        "url": "http://t.co/p10ZTKRIGb",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/p10ZTKRIGb",
+                "expanded_url": "http://www.studereninduitsland.nl",
+                "display_url": "studereninduitsland.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+              {
+                "url": "http://t.co/JAha1k71vA",
+                "expanded_url": "http://www.studereninduitsland.nl",
+                "display_url": "studereninduitsland.nl",
+                "indices":  [
+                  74,
+                  96
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 473,
+        "friends_count": 411,
+        "listed_count": 17,
+        "created_at": "Mon Oct 14 09:43:23 +0000 2013",
+        "favourites_count": 215,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3447,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000636891546/d207040677dab99c95cc68df6f1ff0ff_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000636891546/d207040677dab99c95cc68df6f1ff0ff_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960394017/1432914837",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+        "id": 722752916537393200,
+        "id_str": "722752916537393153",
+        "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+            {
+              "url": "https://t.co/gZu17qwoli",
+              "expanded_url": "http://saxion.to/1Nl6fu0",
+              "display_url": "saxion.to/1Nl6fu0",
+              "indices":  [
+                69,
+                92
+              ]
+            }
+          ],
+          "media":  [
+            {
+              "id": 722752914507358200,
+              "id_str": "722752914507358208",
+              "indices":  [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "url": "https://t.co/Zf1IoTywuZ",
+              "display_url": "pic.twitter.com/Zf1IoTywuZ",
+              "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 16805731,
+          "id_str": "16805731",
+          "name": "Saxion",
+          "screen_name": "Saxion",
+          "location": "Enschede, Deventer, Apeldoorn",
+          "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+          "url": "http://t.co/eG9FY900WE",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/eG9FY900WE",
+                  "expanded_url": "http://www.saxion.nl",
+                  "display_url": "saxion.nl",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8231,
+          "friends_count": 1082,
+          "listed_count": 190,
+          "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+          "favourites_count": 558,
+          "utc_offset": 7200,
+          "time_zone": "Amsterdam",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2492,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+          "profile_link_color": "2D5C11",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "A6CE39",
+          "profile_text_color": "050005",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:16:38 +0000 2016",
+      "id": 722760886167998500,
+      "id_str": "722760886167998465",
+      "text": "Studenten van @Saxion verwachten door ervaring bij oosterburen meer kans te hebben op de arbeidsmarkt: https://t.co/w4O2JoxYEs #grenzeloos",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "grenzeloos",
+            "indices":  [
+              127,
+              138
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              14,
+              21
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/w4O2JoxYEs",
+            "expanded_url": "http://bit.ly/1MHRodg",
+            "display_url": "bit.ly/1MHRodg",
+            "indices":  [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 520301678,
+        "id_str": "520301678",
+        "name": "Peter Schildkamp",
+        "screen_name": "PeterSchildkamp",
+        "location": "Hengelo",
+        "description": "Projectleider 'Duitsland' bij gemeente #Enschede - samenwerking #Duitsland - Nederland, versterken arbeidsmarkt en economie in de #Euregio, #grenzeloosEnschede",
+        "url": "https://t.co/mL9atfYJPP",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/mL9atfYJPP",
+                "expanded_url": "http://www.enschede.nl",
+                "display_url": "enschede.nl",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 216,
+        "friends_count": 368,
+        "listed_count": 2,
+        "created_at": "Sat Mar 10 11:01:18 +0000 2012",
+        "favourites_count": 19,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 136,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671648997002596357/E8tWhi2B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671648997002596357/E8tWhi2B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/520301678/1453727004",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:11:04 +0000 2016",
+      "id": 722759486071373800,
+      "id_str": "722759486071373826",
+      "text": "RT @AlienTrick_com: Maryke gaf vanmorgen een workshop aan 18 studenten van de opleiding MIC van @Saxion https://t.co/NxzjP4VMWq https://t.câ€¦",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "AlienTrick_com",
+            "name": "AlienTrick.com",
+            "id": 87692393,
+            "id_str": "87692393",
+            "indices":  [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              96,
+              103
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/NxzjP4VMWq",
+            "expanded_url": "http://www.alientrick.com/actueel/actueel-detail/167/studenten-van-de-opleiding-mic-volgen-workshop-bij-alientrick",
+            "display_url": "alientrick.com/actueel/actueeâ€¦",
+            "indices":  [
+              104,
+              127
+            ]
+          }
+        ],
+        "media":  [
+          {
+            "id": 722757001328111600,
+            "id_str": "722757001328111616",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+            "url": "https://t.co/FDanTKIum0",
+            "display_url": "pic.twitter.com/FDanTKIum0",
+            "expanded_url": "http://twitter.com/AlienTrick_com/status/722757002770812929/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 722757002770812900,
+            "source_status_id_str": "722757002770812929",
+            "source_user_id": 87692393,
+            "source_user_id_str": "87692393"
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 171058709,
+        "id_str": "171058709",
+        "name": "Maryke Mondria",
+        "screen_name": "MarykeMondria",
+        "location": "Enschede, Overijssel",
+        "description": "ProjectManager @AlienTrick_com (Online)Marketing & Communicatie | Design | Web | Mama | Bloggen | Haken&Stof | Enschede | LoveBirds https://t.co/wUIyGiJwaQ",
+        "url": "https://t.co/REqcUjiPQC",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/REqcUjiPQC",
+                "expanded_url": "http://www.alientrick.com/team/maryke-mondria",
+                "display_url": "alientrick.com/team/maryke-moâ€¦",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+              {
+                "url": "https://t.co/wUIyGiJwaQ",
+                "expanded_url": "http://www.MarykeMondria.nl",
+                "display_url": "MarykeMondria.nl",
+                "indices":  [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 359,
+        "friends_count": 392,
+        "listed_count": 21,
+        "created_at": "Mon Jul 26 13:10:58 +0000 2010",
+        "favourites_count": 13,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2285,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708971892837916672/giE8Jg1A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708971892837916672/giE8Jg1A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171058709/1406187734",
+        "profile_link_color": "D2BCD6",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Apr 20 12:01:12 +0000 2016",
+        "id": 722757002770812900,
+        "id_str": "722757002770812929",
+        "text": "Maryke gaf vanmorgen een workshop aan 18 studenten van de opleiding MIC van @Saxion https://t.co/NxzjP4VMWq https://t.co/FDanTKIum0",
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+            {
+              "screen_name": "Saxion",
+              "name": "Saxion",
+              "id": 16805731,
+              "id_str": "16805731",
+              "indices":  [
+                76,
+                83
+              ]
+            }
+          ],
+          "urls":  [
+            {
+              "url": "https://t.co/NxzjP4VMWq",
+              "expanded_url": "http://www.alientrick.com/actueel/actueel-detail/167/studenten-van-de-opleiding-mic-volgen-workshop-bij-alientrick",
+              "display_url": "alientrick.com/actueel/actueeâ€¦",
+              "indices":  [
+                84,
+                107
+              ]
+            }
+          ],
+          "media":  [
+            {
+              "id": 722757001328111600,
+              "id_str": "722757001328111616",
+              "indices":  [
+                108,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+              "url": "https://t.co/FDanTKIum0",
+              "display_url": "pic.twitter.com/FDanTKIum0",
+              "expanded_url": "http://twitter.com/AlienTrick_com/status/722757002770812929/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 87692393,
+          "id_str": "87692393",
+          "name": "AlienTrick.com",
+          "screen_name": "AlienTrick_com",
+          "location": "Hengelo, Netherlands",
+          "description": "AlienTrick is er voor degene die de beste wil zijn!\nWij maken concepten, media-uitingen en software-oplossingen voor ambitieuze merken.",
+          "url": "http://t.co/34XFtY80Oz",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/34XFtY80Oz",
+                  "expanded_url": "http://www.AlienTrick.com",
+                  "display_url": "AlienTrick.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 521,
+          "friends_count": 229,
+          "listed_count": 10,
+          "created_at": "Thu Nov 05 13:55:31 +0000 2009",
+          "favourites_count": 54,
+          "utc_offset": 7200,
+          "time_zone": "Amsterdam",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 707,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176480973/ZwlV_r6S.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176480973/ZwlV_r6S.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/459261566207029248/vpDZUfce_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/459261566207029248/vpDZUfce_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87692393/1412076634",
+          "profile_link_color": "F7971C",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F0F0F0",
+          "profile_text_color": "555555",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "0de7b29f97eaa34f",
+          "url": "https://api.twitter.com/1.1/geo/id/0de7b29f97eaa34f.json",
+          "place_type": "city",
+          "name": "Hengelo",
+          "full_name": "Hengelo, Nederland",
+          "country_code": "NL",
+          "country": "Nederland",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+              [
+                [
+                  6.7019575,
+                  52.1910703
+                ],
+                [
+                  6.8527455,
+                  52.1910703
+                ],
+                [
+                  6.8527455,
+                  52.3135876
+                ],
+                [
+                  6.7019575,
+                  52.3135876
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:08:03 +0000 2016",
+      "id": 722758728315842600,
+      "id_str": "722758728315842560",
+      "text": "@ActiegroepDuits @Saxion Genauso isses! Und jetzt fleiÃŸig Deutsch lernen, dann sieht die Welt wieder ganz anders aus. ðŸ¤“",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "ActiegroepDuits",
+            "name": "Actiegroep Duits",
+            "id": 398741580,
+            "id_str": "398741580",
+            "indices":  [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              17,
+              24
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "de",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 722757802389815300,
+      "in_reply_to_status_id_str": "722757802389815296",
+      "in_reply_to_user_id": 398741580,
+      "in_reply_to_user_id_str": "398741580",
+      "in_reply_to_screen_name": "ActiegroepDuits",
+      "user":  {
+        "id": 2428464898,
+        "id_str": "2428464898",
+        "name": "Frank Stevens",
+        "screen_name": "StvnsFrnk",
+        "location": "Amsterdam NL | Rieden a.F. GER",
+        "description": "Web Content Manager | Translator | Networker @ DAXXA Deutschland GmbH | Try-act EWIV â˜ž Tweets and views my own â˜œ",
+        "url": "https://t.co/pVtRRUx585",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/pVtRRUx585",
+                "expanded_url": "http://nl.linkedin.com/in/frankjmstevens",
+                "display_url": "nl.linkedin.com/in/frankjmstevâ€¦",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 284,
+        "friends_count": 243,
+        "listed_count": 160,
+        "created_at": "Sat Mar 22 07:50:39 +0000 2014",
+        "favourites_count": 3102,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14715,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/447281889578323968/hqCNxI9e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/447281889578323968/hqCNxI9e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2428464898/1401373068",
+        "profile_link_color": "1500B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "de"
+    },
+    {
+      "created_at": "Wed Apr 20 12:05:56 +0000 2016",
+      "id": 722758195349975000,
+      "id_str": "722758195349975041",
+      "text": "RT @ActiegroepDuits: Studenten @Saxion verwachten betere kansen op de arbeidsmarkt door ervaring bij de oosterburen #dagvandeduitsetaal htâ€¦",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "dagvandeduitsetaal",
+            "indices":  [
+              117,
+              136
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "ActiegroepDuits",
+            "name": "Actiegroep Duits",
+            "id": 398741580,
+            "id_str": "398741580",
+            "indices":  [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              31,
+              38
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/JwJsjUSFhX",
+            "expanded_url": "https://twitter.com/Saxion/status/722752916537393153",
+            "display_url": "twitter.com/Saxion/status/â€¦",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 312997878,
+        "id_str": "312997878",
+        "name": "Erik Manders",
+        "screen_name": "Erik_Manders",
+        "location": "Venlo (NL)",
+        "description": "Bedrijfskunde @Fontys_MER | Raadslid @PvdAVenlo | Bestuurslid @PvdALimburg | Sociale Zaken & Werkgelegenheid | Onderwijs & Jeugd | Veiligheid | Mobiliteit |",
+        "url": "https://t.co/D7srZKERJT",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/D7srZKERJT",
+                "expanded_url": "http://www.erikmanders.com",
+                "display_url": "erikmanders.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 778,
+        "friends_count": 1280,
+        "listed_count": 29,
+        "created_at": "Wed Jun 08 00:36:56 +0000 2011",
+        "favourites_count": 1076,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4250,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1F9CDB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685729759/c1577a5ebc7a4818db414eb236bf07bb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685729759/c1577a5ebc7a4818db414eb236bf07bb.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704560652631842816/I3FC3MtB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704560652631842816/I3FC3MtB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312997878/1429273081",
+        "profile_link_color": "3886D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "484880",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Apr 20 12:04:22 +0000 2016",
+        "id": 722757802389815300,
+        "id_str": "722757802389815296",
+        "text": "Studenten @Saxion verwachten betere kansen op de arbeidsmarkt door ervaring bij de oosterburen #dagvandeduitsetaal https://t.co/JwJsjUSFhX",
+        "entities":  {
+          "hashtags":  [
+            {
+              "text": "dagvandeduitsetaal",
+              "indices":  [
+                96,
+                115
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+            {
+              "screen_name": "Saxion",
+              "name": "Saxion",
+              "id": 16805731,
+              "id_str": "16805731",
+              "indices":  [
+                10,
+                17
+              ]
+            }
+          ],
+          "urls":  [
+            {
+              "url": "https://t.co/JwJsjUSFhX",
+              "expanded_url": "https://twitter.com/Saxion/status/722752916537393153",
+              "display_url": "twitter.com/Saxion/status/â€¦",
+              "indices":  [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 398741580,
+          "id_str": "398741580",
+          "name": "Actiegroep Duits",
+          "screen_name": "ActiegroepDuits",
+          "location": "",
+          "description": "De Actiegroep Duits maakt zich sterk voor de Duitse taal in Nederland. Leden: DNHK, Duitse ambassade Den Haag, Goethe Institut NL en DIA",
+          "url": "http://t.co/UzIUAa16XC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/UzIUAa16XC",
+                  "expanded_url": "http://www.machmit.nl",
+                  "display_url": "machmit.nl",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1000,
+          "friends_count": 217,
+          "listed_count": 21,
+          "created_at": "Wed Oct 26 13:46:22 +0000 2011",
+          "favourites_count": 59,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1022,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/398741580/1393403404",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 722752916537393200,
+        "quoted_status_id_str": "722752916537393153",
+        "quoted_status":  {
+          "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+          "id": 722752916537393200,
+          "id_str": "722752916537393153",
+          "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+              {
+                "url": "https://t.co/gZu17qwoli",
+                "expanded_url": "http://saxion.to/1Nl6fu0",
+                "display_url": "saxion.to/1Nl6fu0",
+                "indices":  [
+                  69,
+                  92
+                ]
+              }
+            ],
+            "media":  [
+              {
+                "id": 722752914507358200,
+                "id_str": "722752914507358208",
+                "indices":  [
+                  93,
+                  116
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+                "url": "https://t.co/Zf1IoTywuZ",
+                "display_url": "pic.twitter.com/Zf1IoTywuZ",
+                "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+                "type": "photo",
+                "sizes":  {
+                  "medium":  {
+                    "w": 600,
+                    "h": 400,
+                    "resize": "fit"
+                  },
+                  "large":  {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "thumb":  {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small":  {
+                    "w": 340,
+                    "h": 227,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "truncated": false,
+          "metadata":  {
+            "iso_language_code": "nl",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user":  {
+            "id": 16805731,
+            "id_str": "16805731",
+            "name": "Saxion",
+            "screen_name": "Saxion",
+            "location": "Enschede, Deventer, Apeldoorn",
+            "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+            "url": "http://t.co/eG9FY900WE",
+            "entities":  {
+              "url":  {
+                "urls":  [
+                  {
+                    "url": "http://t.co/eG9FY900WE",
+                    "expanded_url": "http://www.saxion.nl",
+                    "display_url": "saxion.nl",
+                    "indices":  [
+                      0,
+                      22
+                    ]
+                  }
+                ]
+              },
+              "description":  {
+                "urls":  []
+              }
+            },
+            "protected": false,
+            "followers_count": 8231,
+            "friends_count": 1082,
+            "listed_count": 190,
+            "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+            "favourites_count": 558,
+            "utc_offset": 7200,
+            "time_zone": "Amsterdam",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2492,
+            "lang": "nl",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+            "profile_link_color": "2D5C11",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A6CE39",
+            "profile_text_color": "050005",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "nl"
+        },
+        "is_quote_status": true,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:05:44 +0000 2016",
+      "id": 722758144078790700,
+      "id_str": "722758144078790657",
+      "text": "RT @ActiegroepDuits: Studenten @Saxion verwachten betere kansen op de arbeidsmarkt door ervaring bij de oosterburen #dagvandeduitsetaal htâ€¦",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "dagvandeduitsetaal",
+            "indices":  [
+              117,
+              136
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "ActiegroepDuits",
+            "name": "Actiegroep Duits",
+            "id": 398741580,
+            "id_str": "398741580",
+            "indices":  [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              31,
+              38
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/JwJsjUSFhX",
+            "expanded_url": "https://twitter.com/Saxion/status/722752916537393153",
+            "display_url": "twitter.com/Saxion/status/â€¦",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2428464898,
+        "id_str": "2428464898",
+        "name": "Frank Stevens",
+        "screen_name": "StvnsFrnk",
+        "location": "Amsterdam NL | Rieden a.F. GER",
+        "description": "Web Content Manager | Translator | Networker @ DAXXA Deutschland GmbH | Try-act EWIV â˜ž Tweets and views my own â˜œ",
+        "url": "https://t.co/pVtRRUx585",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "https://t.co/pVtRRUx585",
+                "expanded_url": "http://nl.linkedin.com/in/frankjmstevens",
+                "display_url": "nl.linkedin.com/in/frankjmstevâ€¦",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 284,
+        "friends_count": 243,
+        "listed_count": 160,
+        "created_at": "Sat Mar 22 07:50:39 +0000 2014",
+        "favourites_count": 3102,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14715,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/447281889578323968/hqCNxI9e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/447281889578323968/hqCNxI9e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2428464898/1401373068",
+        "profile_link_color": "1500B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Apr 20 12:04:22 +0000 2016",
+        "id": 722757802389815300,
+        "id_str": "722757802389815296",
+        "text": "Studenten @Saxion verwachten betere kansen op de arbeidsmarkt door ervaring bij de oosterburen #dagvandeduitsetaal https://t.co/JwJsjUSFhX",
+        "entities":  {
+          "hashtags":  [
+            {
+              "text": "dagvandeduitsetaal",
+              "indices":  [
+                96,
+                115
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+            {
+              "screen_name": "Saxion",
+              "name": "Saxion",
+              "id": 16805731,
+              "id_str": "16805731",
+              "indices":  [
+                10,
+                17
+              ]
+            }
+          ],
+          "urls":  [
+            {
+              "url": "https://t.co/JwJsjUSFhX",
+              "expanded_url": "https://twitter.com/Saxion/status/722752916537393153",
+              "display_url": "twitter.com/Saxion/status/â€¦",
+              "indices":  [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 398741580,
+          "id_str": "398741580",
+          "name": "Actiegroep Duits",
+          "screen_name": "ActiegroepDuits",
+          "location": "",
+          "description": "De Actiegroep Duits maakt zich sterk voor de Duitse taal in Nederland. Leden: DNHK, Duitse ambassade Den Haag, Goethe Institut NL en DIA",
+          "url": "http://t.co/UzIUAa16XC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/UzIUAa16XC",
+                  "expanded_url": "http://www.machmit.nl",
+                  "display_url": "machmit.nl",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1000,
+          "friends_count": 217,
+          "listed_count": 21,
+          "created_at": "Wed Oct 26 13:46:22 +0000 2011",
+          "favourites_count": 59,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1022,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/398741580/1393403404",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 722752916537393200,
+        "quoted_status_id_str": "722752916537393153",
+        "quoted_status":  {
+          "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+          "id": 722752916537393200,
+          "id_str": "722752916537393153",
+          "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+              {
+                "url": "https://t.co/gZu17qwoli",
+                "expanded_url": "http://saxion.to/1Nl6fu0",
+                "display_url": "saxion.to/1Nl6fu0",
+                "indices":  [
+                  69,
+                  92
+                ]
+              }
+            ],
+            "media":  [
+              {
+                "id": 722752914507358200,
+                "id_str": "722752914507358208",
+                "indices":  [
+                  93,
+                  116
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+                "url": "https://t.co/Zf1IoTywuZ",
+                "display_url": "pic.twitter.com/Zf1IoTywuZ",
+                "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+                "type": "photo",
+                "sizes":  {
+                  "medium":  {
+                    "w": 600,
+                    "h": 400,
+                    "resize": "fit"
+                  },
+                  "large":  {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "thumb":  {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small":  {
+                    "w": 340,
+                    "h": 227,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "truncated": false,
+          "metadata":  {
+            "iso_language_code": "nl",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user":  {
+            "id": 16805731,
+            "id_str": "16805731",
+            "name": "Saxion",
+            "screen_name": "Saxion",
+            "location": "Enschede, Deventer, Apeldoorn",
+            "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+            "url": "http://t.co/eG9FY900WE",
+            "entities":  {
+              "url":  {
+                "urls":  [
+                  {
+                    "url": "http://t.co/eG9FY900WE",
+                    "expanded_url": "http://www.saxion.nl",
+                    "display_url": "saxion.nl",
+                    "indices":  [
+                      0,
+                      22
+                    ]
+                  }
+                ]
+              },
+              "description":  {
+                "urls":  []
+              }
+            },
+            "protected": false,
+            "followers_count": 8231,
+            "friends_count": 1082,
+            "listed_count": 190,
+            "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+            "favourites_count": 558,
+            "utc_offset": 7200,
+            "time_zone": "Amsterdam",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2492,
+            "lang": "nl",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+            "profile_link_color": "2D5C11",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A6CE39",
+            "profile_text_color": "050005",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "nl"
+        },
+        "is_quote_status": true,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:04:22 +0000 2016",
+      "id": 722757802389815300,
+      "id_str": "722757802389815296",
+      "text": "Studenten @Saxion verwachten betere kansen op de arbeidsmarkt door ervaring bij de oosterburen #dagvandeduitsetaal https://t.co/JwJsjUSFhX",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "dagvandeduitsetaal",
+            "indices":  [
+              96,
+              115
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              10,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/JwJsjUSFhX",
+            "expanded_url": "https://twitter.com/Saxion/status/722752916537393153",
+            "display_url": "twitter.com/Saxion/status/â€¦",
+            "indices":  [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 398741580,
+        "id_str": "398741580",
+        "name": "Actiegroep Duits",
+        "screen_name": "ActiegroepDuits",
+        "location": "",
+        "description": "De Actiegroep Duits maakt zich sterk voor de Duitse taal in Nederland. Leden: DNHK, Duitse ambassade Den Haag, Goethe Institut NL en DIA",
+        "url": "http://t.co/UzIUAa16XC",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/UzIUAa16XC",
+                "expanded_url": "http://www.machmit.nl",
+                "display_url": "machmit.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1000,
+        "friends_count": 217,
+        "listed_count": 21,
+        "created_at": "Wed Oct 26 13:46:22 +0000 2011",
+        "favourites_count": 59,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1022,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1607642383/Mach_mit_logo_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398741580/1393403404",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 722752916537393200,
+      "quoted_status_id_str": "722752916537393153",
+      "quoted_status":  {
+        "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+        "id": 722752916537393200,
+        "id_str": "722752916537393153",
+        "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+            {
+              "url": "https://t.co/gZu17qwoli",
+              "expanded_url": "http://saxion.to/1Nl6fu0",
+              "display_url": "saxion.to/1Nl6fu0",
+              "indices":  [
+                69,
+                92
+              ]
+            }
+          ],
+          "media":  [
+            {
+              "id": 722752914507358200,
+              "id_str": "722752914507358208",
+              "indices":  [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "url": "https://t.co/Zf1IoTywuZ",
+              "display_url": "pic.twitter.com/Zf1IoTywuZ",
+              "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 16805731,
+          "id_str": "16805731",
+          "name": "Saxion",
+          "screen_name": "Saxion",
+          "location": "Enschede, Deventer, Apeldoorn",
+          "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+          "url": "http://t.co/eG9FY900WE",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/eG9FY900WE",
+                  "expanded_url": "http://www.saxion.nl",
+                  "display_url": "saxion.nl",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8231,
+          "friends_count": 1082,
+          "listed_count": 190,
+          "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+          "favourites_count": 558,
+          "utc_offset": 7200,
+          "time_zone": "Amsterdam",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2492,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+          "profile_link_color": "2D5C11",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "A6CE39",
+          "profile_text_color": "050005",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 12:01:12 +0000 2016",
+      "id": 722757002770812900,
+      "id_str": "722757002770812929",
+      "text": "Maryke gaf vanmorgen een workshop aan 18 studenten van de opleiding MIC van @Saxion https://t.co/NxzjP4VMWq https://t.co/FDanTKIum0",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "Saxion",
+            "name": "Saxion",
+            "id": 16805731,
+            "id_str": "16805731",
+            "indices":  [
+              76,
+              83
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/NxzjP4VMWq",
+            "expanded_url": "http://www.alientrick.com/actueel/actueel-detail/167/studenten-van-de-opleiding-mic-volgen-workshop-bij-alientrick",
+            "display_url": "alientrick.com/actueel/actueeâ€¦",
+            "indices":  [
+              84,
+              107
+            ]
+          }
+        ],
+        "media":  [
+          {
+            "id": 722757001328111600,
+            "id_str": "722757001328111616",
+            "indices":  [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cge_qdMWsAAHA12.jpg",
+            "url": "https://t.co/FDanTKIum0",
+            "display_url": "pic.twitter.com/FDanTKIum0",
+            "expanded_url": "http://twitter.com/AlienTrick_com/status/722757002770812929/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 87692393,
+        "id_str": "87692393",
+        "name": "AlienTrick.com",
+        "screen_name": "AlienTrick_com",
+        "location": "Hengelo, Netherlands",
+        "description": "AlienTrick is er voor degene die de beste wil zijn!\nWij maken concepten, media-uitingen en software-oplossingen voor ambitieuze merken.",
+        "url": "http://t.co/34XFtY80Oz",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/34XFtY80Oz",
+                "expanded_url": "http://www.AlienTrick.com",
+                "display_url": "AlienTrick.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 521,
+        "friends_count": 229,
+        "listed_count": 10,
+        "created_at": "Thu Nov 05 13:55:31 +0000 2009",
+        "favourites_count": 54,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 707,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176480973/ZwlV_r6S.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176480973/ZwlV_r6S.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459261566207029248/vpDZUfce_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459261566207029248/vpDZUfce_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87692393/1412076634",
+        "profile_link_color": "F7971C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0F0F0",
+        "profile_text_color": "555555",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place":  {
+        "id": "0de7b29f97eaa34f",
+        "url": "https://api.twitter.com/1.1/geo/id/0de7b29f97eaa34f.json",
+        "place_type": "city",
+        "name": "Hengelo",
+        "full_name": "Hengelo, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within":  [],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+            [
+              [
+                6.7019575,
+                52.1910703
+              ],
+              [
+                6.8527455,
+                52.1910703
+              ],
+              [
+                6.8527455,
+                52.3135876
+              ],
+              [
+                6.7019575,
+                52.3135876
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 11:54:42 +0000 2016",
+      "id": 722755369521520600,
+      "id_str": "722755369521520642",
+      "text": "@MarlonSchipper Gunstig voor jou!! https://t.co/CGZlVWfxft",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+          {
+            "screen_name": "MarlonSchipper",
+            "name": "Marlon Schipper",
+            "id": 50960378,
+            "id_str": "50960378",
+            "indices":  [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls":  [
+          {
+            "url": "https://t.co/CGZlVWfxft",
+            "expanded_url": "https://twitter.com/saxion/status/722752916537393153",
+            "display_url": "twitter.com/saxion/status/â€¦",
+            "indices":  [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 50960378,
+      "in_reply_to_user_id_str": "50960378",
+      "in_reply_to_screen_name": "MarlonSchipper",
+      "user":  {
+        "id": 145756342,
+        "id_str": "145756342",
+        "name": "Lenneke",
+        "screen_name": "LennekevdMolen",
+        "location": "",
+        "description": "Onderwijskundige @Asito - Instructie, Leren en Ontwikkelingspsychologie - Personeel&Arbeid - Waterpolo @SchuurmanBZC",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 167,
+        "friends_count": 226,
+        "listed_count": 0,
+        "created_at": "Wed May 19 20:09:41 +0000 2010",
+        "favourites_count": 20,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 648,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0D0DB8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/157281387/3154674756_663ee2c825.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/157281387/3154674756_663ee2c825.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662970691260674048/NULWZJ2m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662970691260674048/NULWZJ2m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145756342/1435312453",
+        "profile_link_color": "089ACF",
+        "profile_sidebar_border_color": "DB0D89",
+        "profile_sidebar_fill_color": "E9E9F2",
+        "profile_text_color": "0F0E0F",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 722752916537393200,
+      "quoted_status_id_str": "722752916537393153",
+      "quoted_status":  {
+        "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+        "id": 722752916537393200,
+        "id_str": "722752916537393153",
+        "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+            {
+              "url": "https://t.co/gZu17qwoli",
+              "expanded_url": "http://saxion.to/1Nl6fu0",
+              "display_url": "saxion.to/1Nl6fu0",
+              "indices":  [
+                69,
+                92
+              ]
+            }
+          ],
+          "media":  [
+            {
+              "id": 722752914507358200,
+              "id_str": "722752914507358208",
+              "indices":  [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+              "url": "https://t.co/Zf1IoTywuZ",
+              "display_url": "pic.twitter.com/Zf1IoTywuZ",
+              "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "metadata":  {
+          "iso_language_code": "nl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 16805731,
+          "id_str": "16805731",
+          "name": "Saxion",
+          "screen_name": "Saxion",
+          "location": "Enschede, Deventer, Apeldoorn",
+          "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+          "url": "http://t.co/eG9FY900WE",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                {
+                  "url": "http://t.co/eG9FY900WE",
+                  "expanded_url": "http://www.saxion.nl",
+                  "display_url": "saxion.nl",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8231,
+          "friends_count": 1082,
+          "listed_count": 190,
+          "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+          "favourites_count": 558,
+          "utc_offset": 7200,
+          "time_zone": "Amsterdam",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2492,
+          "lang": "nl",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+          "profile_link_color": "2D5C11",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "A6CE39",
+          "profile_text_color": "050005",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 11:44:58 +0000 2016",
+      "id": 722752916537393200,
+      "id_str": "722752916537393153",
+      "text": "Persbericht: Ervaring in Duitsland vergroot kansen op arbeidsmarkt - https://t.co/gZu17qwoli https://t.co/Zf1IoTywuZ",
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+          {
+            "url": "https://t.co/gZu17qwoli",
+            "expanded_url": "http://saxion.to/1Nl6fu0",
+            "display_url": "saxion.to/1Nl6fu0",
+            "indices":  [
+              69,
+              92
+            ]
+          }
+        ],
+        "media":  [
+          {
+            "id": 722752914507358200,
+            "id_str": "722752914507358208",
+            "indices":  [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cge78kmW4AAdEZ7.jpg",
+            "url": "https://t.co/Zf1IoTywuZ",
+            "display_url": "pic.twitter.com/Zf1IoTywuZ",
+            "expanded_url": "http://twitter.com/Saxion/status/722752916537393153/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16805731,
+        "id_str": "16805731",
+        "name": "Saxion",
+        "screen_name": "Saxion",
+        "location": "Enschede, Deventer, Apeldoorn",
+        "description": "Hbo-opleidingen en onderzoek met de focus op Living Technology. Het webcareteam helpt je op werkdagen tussen 9.00 en 17.00 uur. Stel je vraag!",
+        "url": "http://t.co/eG9FY900WE",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/eG9FY900WE",
+                "expanded_url": "http://www.saxion.nl",
+                "display_url": "saxion.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 8231,
+        "friends_count": 1082,
+        "listed_count": 190,
+        "created_at": "Thu Oct 16 11:39:33 +0000 2008",
+        "favourites_count": 558,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2492,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867469350/fe324a4ceb9f47d63f869f1f520f6e74.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644141660025192449/n64MIr4w_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16805731/1455286054",
+        "profile_link_color": "2D5C11",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A6CE39",
+        "profile_text_color": "050005",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    },
+    {
+      "created_at": "Wed Apr 20 11:33:29 +0000 2016",
+      "id": 722750030101266400,
+      "id_str": "722750030101266432",
+      "text": "Wij staan op de #Bedrijvendag van #Saxion Enschede! We zijn op zoek naar 3 stagiaires, interesse? Kom even langs! https://t.co/SFNYwTQ0zw",
+      "entities":  {
+        "hashtags":  [
+          {
+            "text": "Bedrijvendag",
+            "indices":  [
+              16,
+              29
+            ]
+          },
+          {
+            "text": "Saxion",
+            "indices":  [
+              34,
+              41
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [],
+        "media":  [
+          {
+            "id": 722749962388381700,
+            "id_str": "722749962388381696",
+            "indices":  [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cge5QvGWIAA0s39.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cge5QvGWIAA0s39.jpg",
+            "url": "https://t.co/SFNYwTQ0zw",
+            "display_url": "pic.twitter.com/SFNYwTQ0zw",
+            "expanded_url": "http://twitter.com/RoetgerinkMode/status/722750030101266432/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata":  {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 139684255,
+        "id_str": "139684255",
+        "name": "Roetgerink Mode",
+        "screen_name": "RoetgerinkMode",
+        "location": "Overijssel, Enter",
+        "description": "6500 m2 mode Ã©n schoenen. De nieuwste modetrends. Dames, heren Ã©n kinderen. Elke gelegenheid. Geniet v.d. warme charme & frisse stijl v.d. nieuwste collecties.",
+        "url": "http://t.co/bz185L5SOS",
+        "entities":  {
+          "url":  {
+            "urls":  [
+              {
+                "url": "http://t.co/bz185L5SOS",
+                "expanded_url": "http://www.roetgerink.nl",
+                "display_url": "roetgerink.nl",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1725,
+        "friends_count": 270,
+        "listed_count": 17,
+        "created_at": "Mon May 03 11:00:45 +0000 2010",
+        "favourites_count": 251,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2226,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573059349125328896/54MUJeTl.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573059349125328896/54MUJeTl.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/706780909257658368/zMklOlk9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/706780909257658368/zMklOlk9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139684255/1457344652",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CDD1D1",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "nl"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.065,
+    "max_id": 722772259073626100,
+    "max_id_str": "722772259073626112",
+    "next_results": "?max_id=722750030101266431&q=saxion&include_entities=1",
+    "query": "saxion",
+    "refresh_url": "?since_id=722772259073626112&q=saxion&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

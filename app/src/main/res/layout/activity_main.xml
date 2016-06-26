@@ -10,10 +10,10 @@
     tools:context=".activity.MainActivity">
 
     <fragment
+        class="nl.saxion.ap.twitterv2.fragment.ListFragment"
         android:id="@+id/main_fragment_container"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        class= "nl.saxion.ap.twitterv2.fragment.supListFragment"
         tools:layout="@layout/fragment_main_list" />
 
 </FrameLayout>

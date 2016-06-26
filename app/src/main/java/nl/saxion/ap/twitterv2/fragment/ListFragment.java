@@ -32,12 +32,13 @@ public class ListFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_main_list, container, false);
 
-        listView = (ListView) view.findViewById(R.id.activity_myprofile_listViewLV);
+        listView = (ListView) view.findViewById(R.id.listView1);
 
 
         if (StatusModel.getInstance().getNewsfeed()!=null) {
             statusAdapter = new StatusAdapter(getActivity(), 0, StatusModel.getInstance().getNewsfeed());
             statusAdapter.notifyDataSetChanged();
+
             listView.setAdapter(statusAdapter);
         }
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

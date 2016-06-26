@@ -18,8 +18,8 @@ import nl.saxion.ap.twitterv2.model.StatusModel;
  * Created by MindR on 26-Jun-16.
  */
 public class SearchFragment extends Fragment {
-    private ListView lv;
-    private StatusAdapter sa;
+    private ListView listView;
+    private StatusAdapter statusAdapter;
     private OnSearchResultListCallback listener;
 
     @Override
@@ -32,13 +32,13 @@ public class SearchFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_search_list, container, false);
 
-        sa = new StatusAdapter(getActivity(),0, StatusModel.getInstance().getSearchResults());
+        statusAdapter = new StatusAdapter(getActivity(),0, StatusModel.getInstance().getSearchResults());
 
-        lv = (ListView) view.findViewById(R.id.fragment_search_listView);
+        listView = (ListView) view.findViewById(R.id.fragment_search_listView);
 
-        lv.setAdapter(sa);
+        listView.setAdapter(statusAdapter);
 
-        lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (listener != null) {
@@ -62,7 +62,7 @@ public class SearchFragment extends Fragment {
     }
 
     public void refresh() {
-        sa.notifyDataSetChanged();
+        statusAdapter.notifyDataSetChanged();
     }
 
 }

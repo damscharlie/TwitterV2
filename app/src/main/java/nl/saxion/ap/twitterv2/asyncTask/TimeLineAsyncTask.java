@@ -37,7 +37,8 @@ public class TimeLineAsyncTask extends AsyncTask<Void, Void, Void> {
                 OAuthMaster.getInstance().getService());
 
         request.addParameter("user_id", StatusModel.getInstance().getCurrentUser().getId() + "");
-        OAuthMaster.getInstance().getService().signRequest(OAuthMaster.getInstance().getAccessToken(), request); // the access token from step 4
+        // the access token from step 4
+        OAuthMaster.getInstance().getService().signRequest(OAuthMaster.getInstance().getAccessToken(), request);
 
         final Response response = request.send();
         result = response.getBody();
@@ -52,17 +53,12 @@ public class TimeLineAsyncTask extends AsyncTask<Void, Void, Void> {
                     nl.saxion.ap.twitterv2.object.Status newStatus = new nl.saxion.ap.twitterv2.object.Status(JSONStatus);
                     System.out.println("TimeLine Statues nr " + (i + 1) + " has been created.");
                     StatusModel.getInstance().addNewsfeedTweets(newStatus);
-
-
                 }
             } catch (JSONException e) {
                 System.err.println(e.getMessage());
             }
 
-
         }
-
-
         return null;
     }
 

@@ -15,7 +15,6 @@ public class TwitterApi extends DefaultApi10a {
     private static final String URL_ACCESS_TOKEN = "https://api.twitter.com/oauth/access_token";
     private static final String URL_TOKEN_AUTH = "https://api.twitter.com/oauth/authorize?oauth_token=";
 
-    //Constructor
     public TwitterApi(){}
 
     @Override
@@ -29,14 +28,11 @@ public class TwitterApi extends DefaultApi10a {
     }
 
     public static TwitterApi getInstance(){
-
         if(instance == null){
             instance = new TwitterApi();
         }
-
         return instance;
     }
-
 
     @Override
     public String getAuthorizationUrl(OAuth1RequestToken requestToken) {

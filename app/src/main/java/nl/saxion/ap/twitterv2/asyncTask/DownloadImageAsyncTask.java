@@ -26,8 +26,7 @@ public class DownloadImageAsyncTask extends AsyncTask<String, Void, Bitmap> {
             return null;
         }
     }
-
-    // Given a URL, establishes an HttpUrlConnection and retrieves
+// Given a URL, establishes an HttpUrlConnection and retrieves
 // the web page content as a InputStream, which it returns as
 // a string.
     private Bitmap downloadUrl(String myUrl) throws IOException {
