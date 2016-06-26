@@ -39,11 +39,9 @@ public class OAuthMaster extends TwitterApi {
     }
 
     public static OAuthMaster getInstance() {
-
         if (instance == null) {
             instance = new OAuthMaster();
         }
-
         return instance;
     }
 

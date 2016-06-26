@@ -15,7 +15,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import org.apache.commons.io.IOUtils;
@@ -35,6 +34,7 @@ import nl.saxion.ap.twitterv2.R;
 import nl.saxion.ap.twitterv2.asyncTask.DoSearchAsyncTask;
 import nl.saxion.ap.twitterv2.asyncTask.DownloadImageAsyncTask;
 import nl.saxion.ap.twitterv2.asyncTask.TimeLineAsyncTask;
+import nl.saxion.ap.twitterv2.asyncTask.TweetAsyncTask;
 import nl.saxion.ap.twitterv2.fragment.ListFragment;
 import nl.saxion.ap.twitterv2.model.StatusModel;
 import nl.saxion.ap.twitterv2.object.JSON;
@@ -49,13 +49,9 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
     private ListFragment listFragment;
     private EditText search;
     private EditText tweet;
-    private TextView tweetDisplay;
-    private String searchURL;
-    private StatusAdapter sa;
     private Bitmap bitmap = null;
     private Bitmap profileBitmap = null;
     private String stringResponse;
-    private String bearerToken;
     private String tweetText;
 
     public StatusAdapter getStatusAdapter() {
@@ -64,16 +60,6 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
 
     private StatusAdapter statusAdapter;
     TimeLineAsyncTask timeLine;
-
-    public static Context getContext() {
-        return context;
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu, menu);
-        return true;
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,9 +76,10 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
 
         timeLine = new TimeLineAsyncTask(this);
         timeLine.execute();
-
         listFragment = (ListFragment) getSupportFragmentManager().findFragmentById(R.id.main_fragment_container);
         statusAdapter = listFragment.getStatusAdapter();
+
+
 
         try {
             jsonText = usedJSON.readAssetIntoString("JSON.json");
@@ -110,22 +97,21 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
             Log.e(TAG, "JSON object could not be created!", e);
         }
 
-        ConnectivityManager connMgr = (ConnectivityManager)
-                getSystemService(Context.CONNECTIVITY_SERVICE);
+        ConnectivityManager connMgr = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
         if (networkInfo != null && networkInfo.isConnected()) {
 
             for (int i = 0; i < StatusModel.getInstance().getNewsfeed().size(); i++) {
                 Status status = StatusModel.getInstance().getNewsfeed().get(i);
-                DownloadImageAsyncTask downloadImageTask = new DownloadImageAsyncTask();
+                DownloadImageAsyncTask downloadImageAsyncTask = new DownloadImageAsyncTask();
 
                 if (status.getUser().getProfile_image_url() != null) {
-                    downloadImageTask.execute(status.getUser().getProfile_image_url());
+                    downloadImageAsyncTask.execute(status.getUser().getProfile_image_url());
 
-                    if (downloadImageTask.getStatus() == AsyncTask.Status.RUNNING) {
+                    if (downloadImageAsyncTask.getStatus() == AsyncTask.Status.RUNNING) {
 
                         try {
-                            profileBitmap = downloadImageTask.get();
+                            profileBitmap = downloadImageAsyncTask.get();
 
                             if (profileBitmap != null) {
                                 status.getUser().addImageBitmap(profileBitmap);
@@ -141,14 +127,14 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
                     }
                 }
 
-                downloadImageTask = new DownloadImageAsyncTask();
+                downloadImageAsyncTask = new DownloadImageAsyncTask();
                 if (status.getImageUrl() != null) {
-                    downloadImageTask.execute(status.getImageUrl());
+                    downloadImageAsyncTask.execute(status.getImageUrl());
 
-                    if (downloadImageTask.getStatus() == AsyncTask.Status.RUNNING) {
+                    if (downloadImageAsyncTask.getStatus() == AsyncTask.Status.RUNNING) {
 
                         try {
-                            bitmap = downloadImageTask.get();
+                            bitmap = downloadImageAsyncTask.get();
 
                             if (bitmap != null) {
                                 status.addImageBitmap(bitmap);
@@ -171,17 +157,31 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
 
     }
 
+    public static Context getContext() {
+        return context;
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu, menu);
+        return true;
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+
         int id = item.getItemId();
         search = (EditText) findViewById(R.id.fragment_main_searchET);
         tweet = (EditText) findViewById(R.id.fragment_main_tweetET);
 
-        //make do search
-        DoSearchAsyncTask doSearchTask = new DoSearchAsyncTask(this);
+
+        DoSearchAsyncTask doSearchAsyncTask = new DoSearchAsyncTask(this);
         //noinspection SimplifiableIfStatement
-        if (id == R.id.text_tweet) {
+        if (id == R.id.fragment_main_tweetET) {
 
             if (tweet.getVisibility() == View.GONE) {
                 tweet.setBackgroundColor(Color.GRAY);
@@ -191,8 +191,8 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
                 tweet.setVisibility(View.GONE);
                 if (tweet.getText().length() > 0 &&tweet.getText().length()<=140) {
                     tweetText=tweet.getText().toString();
-                    MyProfile.TweetAsyncTask tweetTask = new MyProfile.TweetAsyncTask(tweetText);
-                    tweetTask.execute(tweetText);
+                    TweetAsyncTask tweetAsyncTask = new TweetAsyncTask(tweetText);
+                    tweetAsyncTask.execute(tweetText);
                     Toast.makeText(MainActivity.this, "Tweet Created successfully", Toast.LENGTH_SHORT).show();
                     statusAdapter.notifyDataSetChanged();
 
@@ -213,15 +213,15 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
             startActivity(new Intent(MainActivity.this, MyProfile.class));
             return true;
         }
-        if (id == R.id.search) {
+        if (id == R.id.fragment_main_searchET) {
             if (search.getVisibility() == View.GONE) {
                 search.setBackgroundColor(Color.GRAY);
                 search.setVisibility(View.VISIBLE);
                 search.setHint("Enter a search query!");
             } else {
                 search.setVisibility(View.GONE);
-                if (search.getText().length() > 0 && doSearchTask.getStatus() != AsyncTask.Status.RUNNING) {
-                    doSearchTask.execute((search.getText().toString()));
+                if (search.getText().length() > 0 && doSearchAsyncTask.getStatus() != AsyncTask.Status.RUNNING) {
+                    doSearchAsyncTask.execute((search.getText().toString()));
                     search.setText("");
                 }
             }
@@ -256,13 +256,13 @@ public class MainActivity extends AppCompatActivity implements ListFragment.OnSt
                         authString.getBytes("UTF-8"),
                         Base64.NO_WRAP);
 
-                conn.setReadTimeout(10000);
-                conn.setConnectTimeout(15000);
+                conn.setReadTimeout(1000);
+                conn.setConnectTimeout(1500);
                 conn.setDoInput(true);
                 conn.setRequestProperty("Authorization", "Basic " + authStringBase64);
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded;charset=UTF-8");
-
                 conn.setDoOutput(true);
+
                 byte[] body = "grant_type=client_credentials".getBytes("UTF-8");
                 conn.setFixedLengthStreamingMode(body.length);
                 BufferedOutputStream os = new BufferedOutputStream(conn.getOutputStream());
