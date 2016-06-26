@@ -1,0 +1,83 @@
+[SNAPSHOT]
+ * add Salesforce API
+
+[2.7.3]
+ * FIX: ScribeJava shouldn't require all async http client provider to be on the classpath if using only one of them
+
+[2.7.2]
+ * FIX: ScribeJava shouldn't require any async http client provider to be on the classpath (neither ning neither AHC)
+
+[2.7.1]
+ * do not hide checked IOException in unchecked IllegalArgumentException
+
+[2.7.0]
+ * make http async client implementation be more pluggable
+ * add async-http-client 2.0 support (thanks to Sai Chandrasekharan https://github.com/saichand)
+ * add Misfit (http://misfit.com/) API
+ * implement async version getting Request Token for OAuth 1.0a
+
+[2.6.0]
+ * simplify async/sync usages
+ * add optional "User-Agent" config option to use while making http calls
+ * refactor usage of grant_type [authorization_code|refresh_token|password|etc]
+ * add Genius.com API authentication (OAuth2)
+ * fix GitHub API
+ * standardize authorization url generation for OAuth2
+ * update Facebook to v2.6
+ * cleanup: drop old APIs without Examples and with outdated domains
+
+[2.5.3]
+ * fix - do not send two Content-Type header in async requests
+ * improve OK example
+
+[2.5.2]
+ * add Google Async Exmaple (with bugfix for it to work)
+ * add OSGI manifest metadata
+ * apiSecret is not mandatory parameter in config (to use on client sides and other flows without need of the API secret)
+ * implement OAuth2 Authorization Response parsing in the OAuth20Service (to extract code and state from url, useful for Android)
+ * update ok.ru API urls, add 'state' support, add refresh token to the example
+
+[2.4.0]
+ * APIs 2.0 can define different endpoints for access token and for refresh token (the same urls by default)
+ * mark Facebook doesn't support refresh token by throwing UnsupportedOperationException
+ * make JSON Access Token Extractor be the default for OAuth 2.0 (according to RFC 6749)
+ * drop Google OAuth 1.0 support (OAuth 1.0 was officially deprecated by Google)
+ * add response_type parameter to the ServiceBuilder/OAuthConfig to use not only "code" for authorization code
+ * remove Verifier object, we just need Strings, 'code' for OAuth2 and 'oauthVerifier' for OAuth1
+ * default HTTP verb for OAuth 2.0 Access Token EndPoint is POST (http://tools.ietf.org/html/rfc6749#section-3.2)
+ * send missed headers in async version (as in sync)
+ * support 'password' grant_type for OAuth 2.0
+
+[2.3.0]
+ * Stack Exchange authentication via OAuth 2.0 (stackoverflow.com, askubuntu.com, etc.).
+ * Support response in gzip.
+ * differentiate OAuth1 Access token, OAuth 1 Request Token and OAuth 2 Access token, make them conforms RFCs
+ * OAuth 1 APIs can choose whether to pass empty oauth_token param in requests
+ * Support refresh tokens for OAuth2 (very thanks to P. Daniel Tyreus https://github.com/pdtyreus)
+
+[2.2.2]
+ * make all APIs to be extentable (have protected constructors, useful for testing)
+
+[2.2.1]
+ * Update Facebook API v2.2 -> v2.5
+ * Update hh.ru urls
+
+[2.2.0]
+ * Let GoogleApi20 supports OOB
+ * Updated Imgur API to OAuth2
+ * force not to instantiate stateless APIs. Use provided singletons
+ * reduce OAuthService abstraction for OAuth1 and OAuth2. Separate OAuth(1|2)Services
+
+[2.1.0]
+ * add Pinterest API
+
+[2.0.1]
+ * small code enhancements
+
+[2.0]
+ * merge back SubScribe fork to the ScribeJava
+ 
+for previous changes see
+v1-changelog - changelog for 1.x version
+v2pre-changelog - changelog for SubScribe fork
+

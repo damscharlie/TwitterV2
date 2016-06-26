@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context=".activity.MainActivity"
+    >
+
+    <item
+        android:id="@+id/text_tweet"
+        android:orderInCategory="100"
+        android:title="notify"
+        android:icon="@android:drawable/ic_menu_agenda"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/favoured_list"
+        android:orderInCategory="100"
+        android:title="msg"
+        android:icon="@drawable/favorite"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:title="search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/myProfile"
+        android:orderInCategory="100"
+        android:title="profile"
+        app:showAsAction="never" />
+</menu>

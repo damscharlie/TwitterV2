@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterV2</string>
+    <string name="loginBT">Login</string>
+    <string name="username">UserName</string>
+    <string name="screenname">\@ScreenName</string>
+    <string name="statustext">StatusText</string>
+</resources>
